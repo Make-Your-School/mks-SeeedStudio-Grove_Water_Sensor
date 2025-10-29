@@ -15,6 +15,9 @@ clone_url: "https://github.com/Make-Your-School/mks-SeeedStudio-Grove_Water_Sens
 repo_prefix: "mks"
 repo_part: "Grove_Water_Sensor"
 embedded_example_file: "examples/Grove_Water_Sensor_minimal/Grove_Water_Sensor_minimal.ino"
+title: 'Wasserspiegelsensor'
+status: 'active'
+difficulty: 'advanced'
 ---
 
 
